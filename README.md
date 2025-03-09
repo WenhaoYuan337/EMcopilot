@@ -1,27 +1,22 @@
-# Deep Generative Models Enabled Label-free Segmentation for Electron Microscopy Images of Supported Nanoparticle
-
-This repository contains scripts for nanoparticle image segmentation, mask generation, and electron microscopy image analysis. For more details on the methodology, refer to the associated [arXiv paper](https://arxiv.org/abs/2407.19544).
-
-## Repository Structure
-
-- **01_segmentation_predict_training**: 
-  Tools for training deep learning models for segmentation and predicting masks on new images.
-
-- **02_mask_generation**: 
-  Scripts to generate synthetic nanoparticle masks with varying sizes and shapes and extract key parameters like particle size and ellipticity.
-
-- **03_image_generate**: 
-  Contains image generation and evaluation scripts, including Fréchet Inception Distance (FID), Peak Signal-to-Noise Ratio (PSNR), Inception Score (IS), Kernel Maximum Mean Discrepancy (MMD), and other quality assessment methods.
-
-- **04_in_situ_analysis**: 
-  Tools for processing and segmenting electron microscopy images (DM4 format), extracting particle properties, and performing statistical analysis on particle size distributions.
+# EMcopilot: Your label-free copilot for automated electron microscopy image analysis
 
 ## Usage
 
-1. **Train and predict segmentation models**: Located in the `01_segmentation_predict_training` folder.
-2. **Generate and analyze synthetic masks**: Available in `02_mask_generation`.
-3. **Generate and evaluate images**: Use the scripts in `03_image_generate` to train, generate, and assess image quality.
-4. **Analyze DM4 microscopy data**: Use the tools in `04_in_situ_analysis` to analyze HAADF-STEM images of supported nanoparticles in real time.
+1. **Train and predict segmentation models**:
+     * `00_01_sam_binary_masking.py` -  Generates coarse masks using the SAM model.
+3. **Generate and analyze synthetic masks**:
+     * `02_01_sam_mask_analysis.py` - Analyzes SAM mask properties and extracts morphology prior.
+     * `02_02_random_mask_generate.py` - Generates synthetic masks by augmenting existing masks.
+5. **Generate and evaluate images**:
+     * `03_01_p2p_train.py` - Trains a Pix2Pix model for mask-to-EMimage translation.
+     * `04_01_pix2pix_predict.py` - Runs inference using the trained Pix2Pix model.
+6. **Domain Adaptation**:
+     * `05_01_domain_adaptation.py` - Applies domain adaptation, including noise and contrast augmentation.
+7. **UNet++ Training and Inference**:
+     * `06_01_unet++_train.py` - Trains a CBAM-enhanced UNet++ model for segmentation.
+     * `07_01_unet++_predict.py` - Performs inference using the trained UNet++ model.
+8. **Analyze DM4 microscopy data**:
+     * `08_01_in_situ_analysis.py` - Analyze HAADF-STEM images of supported nanoparticles in real time.
 
 ## Installation
 
