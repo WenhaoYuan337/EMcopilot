@@ -31,7 +31,6 @@ def train_model(model, model_name, train_loader, test_loader, device, epochs, re
     plot_path = os.path.join(results_dir, "metrics.png")
 
 
-    # 初始化日志文件，写入标题
     with open(log_path, "w") as f:
         f.write("epoch,phase,loss,mPA,mDice,mIoU,recall,precision\n")
 
