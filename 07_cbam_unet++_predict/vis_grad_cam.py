@@ -60,4 +60,4 @@ for img_name in image_filenames:
 
     cv2.imwrite(os.path.join(save_path, f"grad_cam_{img_name}"), cv2.cvtColor(heatmap, cv2.COLOR_RGB2BGR))
 
-print("Grad-CAM 计算完成，所有结果已保存。")
+print("Grad-CAM complete.")
