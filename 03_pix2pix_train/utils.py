@@ -143,7 +143,6 @@ def train_single_run(run_dir, train_loader, val_dir, device, opt, vis=False):
         # os.makedirs(checkpoint_dir, exist_ok=True)
         # torch.save(net_g, os.path.join(checkpoint_dir, f"net_g_{epoch}.pth"))
 
-        # 计算 SSIM
         current_ssim, current_msssim, current_fid, current_lpips = validate_model(net_g, val_dir, device, epoch,
                                                                                   vis_enabled=vis)
 
