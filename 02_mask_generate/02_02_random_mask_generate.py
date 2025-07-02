@@ -21,10 +21,13 @@ os.makedirs(masks_folder, exist_ok=True)
 # Configuration parameters
 NUM_NEW_MASKS_PER_OLD = 100
 IMAGE_SIZE = 512
-SHIFT_RANGE = 50
-MIN_AREA = 20
-MIN_PERIMETER = 15
-BOUNDARY_MARGIN = 5
+
+# === Derived parameters (implicit) ===
+scale_factor = IMAGE_SIZE / 512
+SHIFT_RANGE = int(50 * scale_factor)
+MIN_AREA = int(20 * (scale_factor ** 2))
+MIN_PERIMETER = int(15 * scale_factor)
+BOUNDARY_MARGIN = int(5 * scale_factor)
 
 # Configure Matplotlib
 plt.rcParams["font.family"] = "Arial"
