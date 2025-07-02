@@ -22,7 +22,7 @@ os.makedirs(masks_folder, exist_ok=True)
 NUM_NEW_MASKS_PER_OLD = 100
 IMAGE_SIZE = 512
 
-# === Derived parameters (implicit) ===
+# === Derived parameters (automatically scaled with image size, no manual tuning required) ===
 scale_factor = IMAGE_SIZE / 512
 SHIFT_RANGE = int(50 * scale_factor)
 MIN_AREA = int(20 * (scale_factor ** 2))
