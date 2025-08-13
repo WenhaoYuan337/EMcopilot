@@ -5,6 +5,25 @@
 [![Hugging Face](https://img.shields.io/badge/Models-HuggingFace-yellow.svg)](https://huggingface.co/wy337/EMcopilot)
 [![Supplementary Info](https://img.shields.io/badge/SI-PDF-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf)
 
+## 🎥 Movie
+
+<video src="https://github.com/user-attachments/assets/6080d6be-b48a-4388-94e3-568ed093c813" 
+       controls 
+       autoplay 
+       loop 
+       muted 
+       style="max-width:100%; height:auto;">
+  Your browser does not support the video tag.
+</video>
+
+
+## Installation
+
+Install required packages using:
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
 1. **Train and predict segmentation models**:
@@ -22,13 +41,6 @@
      * `07_01_unet++_predict.py` - Performs inference using the trained UNet++ model.
 8. **Analyze DM4 microscopy data**:
      * `08_01_in_situ_analysis.py` - Analyze HAADF-STEM images of supported nanoparticles in real time.
-
-## Installation
-
-Install required packages using:
-```bash
-pip install -r requirements.txt
-```
 
 ## Datasets 
 All data that support the findings of this study, including experimental data, synthetic data and model checkpoints, are available on :
