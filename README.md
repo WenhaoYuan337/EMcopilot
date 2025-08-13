@@ -1,22 +1,47 @@
-# EMcopilot: Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation
-[![arXiv](https://img.shields.io/badge/arXiv-2407.19544-b31b1b.svg)](https://arxiv.org/abs/2407.19544)
-[![M&M2024](https://img.shields.io/badge/Proster-M&M2024-blue.svg)](https://doi.org/10.1093/mam/ozae044.211)
-[![Datasets](https://img.shields.io/badge/Datasets-Zenodo-blue.svg)](https://doi.org/10.5281/zenodo.14994375)
-[![Hugging Face](https://img.shields.io/badge/Models-HuggingFace-yellow.svg)](https://huggingface.co/wy337/EMcopilot)
-[![Supplementary Info](https://img.shields.io/badge/SI-PDF-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf)
-[![Supplementary Info](https://img.shields.io/badge/SI-Movie1-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_1.mp4)
-[![Supplementary Info](https://img.shields.io/badge/SI-Movie2-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_2.mp4)
+# EMcopilot: Generate realistic electron microscopy images for label-free nanostructure segmentation
 
-## 🎥 Movie
+<p align="center">
+<a href="https://arxiv.org/abs/2407.19544"><img src="https://img.shields.io/badge/arXiv-2407.19544-b31b1b.svg?logo=arxiv&logoColor=red" alt="arXiv"></a>
+<a href="https://doi.org/10.1093/mam/ozae044.211"><img src="https://img.shields.io/badge/Poster-M&M2024-blue.svg" alt="M&M2024"></a>
+<a href="https://doi.org/10.5281/zenodo.14994375"><img src="https://img.shields.io/badge/Datasets-Zenodo-blue.svg?logo=databricks" alt="Zenodo Datasets"></a>
+<a href="https://huggingface.co/wy337/EMcopilot"><img src="https://img.shields.io/badge/Models-HuggingFace-yellow.svg?logo=huggingface" alt="Hugging Face Models"></a>
+<a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf"><img src="https://img.shields.io/badge/SI-PDF-lightgrey.svg" alt="Supplementary Information PDF"></a>
+<a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_1.mp4"><img src="https://img.shields.io/badge/SI-Movie1-lightgrey.svg" alt="Supplementary Movie 1"></a>
+<a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_2.mp4"><img src="https://img.shields.io/badge/SI-Movie2-lightgrey.svg" alt="Supplementary Movie 2"></a>
+</p>
 
+<p align="center">
+<a href="https://arxiv.org/abs/2407.19544"><img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/toc.png" alt="TOC figure" width="800"></a>
+</p>
+
+<div align="center">
+<details>
+<summary><b>Scope of EMcopilot</b> (click to expand)</summary>
+
+| **Category**       | **Coverage** |
+|--------------------|--------------|
+| **Imaging Modes**  | TEM, STEM, BF, DF, HAADF |
+| **Materials** | PtSn-NPs@Al₂O₃, PtSn-Cluster@@Al₂O₃, Pt-SACs@C, Au@ZSM-5, Pt-SACs@NC, Pd-NPs@C |
+| **Applications**   | Semantic segmentation, Particle size distribution, Single-atom/clusters detection |
+
+</details>
+</div>
+
+
+## 🎥 Demonstration Movie
+- *This movie* illustrates the generation and iterative refinement of synthetic EM images for various supported catalysts as training epochs advance.  
+- *It captures* the evolution of the generator’s learning process, progressively assimilating real image features.  
+- *Toward the end*, a quick-flash sequence visually compares the final synthetic images with their corresponding experimental counterparts.
+
+<p align="center">
 <video src="https://github.com/user-attachments/assets/6080d6be-b48a-4388-94e3-568ed093c813" 
-       controls 
        autoplay 
        loop 
        muted 
        style="max-width:100%; height:auto;">
   Your browser does not support the video tag.
 </video>
+</p>
 
 
 ## Installation
@@ -25,6 +50,7 @@ Install required packages using:
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## Usage
 
@@ -44,12 +70,14 @@ pip install -r requirements.txt
 8. **Analyze DM4 microscopy data**:
      * `08_01_in_situ_analysis.py` - Analyze HAADF-STEM images of supported nanoparticles in real time.
 
+
 ## Datasets 
 All data that support the findings of this study, including experimental data, synthetic data and model checkpoints, are available on :
 - `Zenodo`: Yuan, W., YAO, B., Tan, S., You, F., & He, Q. (2025). Source Data for: Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14994375](https://doi.org/10.5281/zenodo.14994375)
 
 Models are also available on：
 -  `Hugging Face`: [https://huggingface.co/wy337/EMcopilot](https://huggingface.co/wy337/EMcopilot)
+
   
 ## Citation
 If you find our code or data useful in your research, please cite our paper:
