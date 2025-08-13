@@ -7,7 +7,7 @@
 
 ## 🎥 Movie
 
-<video src="https://github.com/user-attachments/assets/32ba578c-4e46-4e47-a8c0-781333b9c4f9" 
+<video src="https://github.com/user-attachments/assets/6080d6be-b48a-4388-94e3-568ed093c813" 
        controls 
        autoplay 
        loop 
