@@ -7,7 +7,7 @@
 
 ## 🎥 Movie
 
-<video src="https://github.com/WenhaoYuan337/EMcopilot/raw/refs/heads/main/resources/movie.mp4" 
+<video src="https://github.com/user-attachments/assets/32ba578c-4e46-4e47-a8c0-781333b9c4f9" 
        controls 
        autoplay 
        loop 
@@ -16,6 +16,13 @@
   Your browser does not support the video tag.
 </video>
 
+
+## Installation
+
+Install required packages using:
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -34,13 +41,6 @@
      * `07_01_unet++_predict.py` - Performs inference using the trained UNet++ model.
 8. **Analyze DM4 microscopy data**:
      * `08_01_in_situ_analysis.py` - Analyze HAADF-STEM images of supported nanoparticles in real time.
-
-## Installation
-
-Install required packages using:
-```bash
-pip install -r requirements.txt
-```
 
 ## Datasets 
 All data that support the findings of this study, including experimental data, synthetic data and model checkpoints, are available on :
