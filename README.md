@@ -1,4 +1,10 @@
 # EMcopilot: Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation
+[![arXiv](https://img.shields.io/badge/arXiv-2407.19544-b31b1b.svg)](https://arxiv.org/abs/2407.19544)
+[![M&M2024](https://img.shields.io/badge/DOI-10.1093/mam/ozae044.211-blue.svg)](https://doi.org/10.1093/mam/ozae044.211)
+[![Datasets](https://img.shields.io/badge/DOI-10.5281/zenodo.14994375-blue.svg)](https://doi.org/10.5281/zenodo.14994375)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-EMcopilot-yellow.svg)](https://huggingface.co/wy337/EMcopilot)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Supplementary Info](https://img.shields.io/badge/SI-PDF-lightgrey.svg)]([link_to_SI_file](https://github.com/WenhaoYuan337/EMcopilot/blob/main/Supplementary%20Information.pdf))
 
 ## Usage
 
