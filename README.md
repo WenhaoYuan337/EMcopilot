@@ -21,7 +21,7 @@
 | **Category**       | **Coverage** |
 |--------------------|--------------|
 | **Imaging Modes**  | TEM, STEM, BF, DF, HAADF |
-| **Demo Materials** | PtSn-NPs@Al₂O₃, PtSn-Cluster@@Al₂O₃, Pt-SACs@C, Au@ZSM-5, Pt-SACs@NC, Pd-NPs@C |
+| **Demo Materials** | PtSn-NPs@Al₂O₃, Au-NPs@ZSM-5, Pd-NPs@C，PtSn-Cluster@Al₂O₃, Pt-SACs@C, Pt-SACs@NC, Pd-SACs@NC, Ni-SACs@NC, and Ru-SACs@NC |
 | **Applications**   | Semantic segmentation, Particle size distribution, Single-atom/clusters detection |
 
 </details>
