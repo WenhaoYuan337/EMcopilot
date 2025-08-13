@@ -1,4 +1,4 @@
-# EMcopilot: Your label-free copilot for automated electron microscopy image analysis
+# EMcopilot: Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation
 
 ## Usage
 
@@ -24,6 +24,14 @@ Install required packages using:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Datasets 
+All data that support the findings of this study, including experimental data, synthetic data and model checkpoints, are available on :
+- `Zenodo`: Yuan, W., YAO, B., Tan, S., You, F., & He, Q. (2025). Source Data for: Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14994375](https://doi.org/10.5281/zenodo.14994375)
+
+Models are also available on：
+-  `Hugging Face`: [https://huggingface.co/wy337/EMcopilot](https://huggingface.co/wy337/EMcopilot)
+  
 ## Citation
 If you find our code or data useful in your research, please cite our paper:
 ```
