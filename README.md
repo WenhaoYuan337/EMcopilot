@@ -4,6 +4,8 @@
 [![Datasets](https://img.shields.io/badge/Datasets-Zenodo-blue.svg)](https://doi.org/10.5281/zenodo.14994375)
 [![Hugging Face](https://img.shields.io/badge/Models-HuggingFace-yellow.svg)](https://huggingface.co/wy337/EMcopilot)
 [![Supplementary Info](https://img.shields.io/badge/SI-PDF-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf)
+[![Supplementary Info](https://img.shields.io/badge/SI-Movie1-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_1.mp4)
+[![Supplementary Info](https://img.shields.io/badge/SI-Movie2-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_2.mp4)
 
 ## 🎥 Movie
 
