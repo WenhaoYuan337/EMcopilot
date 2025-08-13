@@ -3,7 +3,7 @@
 [![M&M2024](https://img.shields.io/badge/Proster-M&M2024-blue.svg)](https://doi.org/10.1093/mam/ozae044.211)
 [![Datasets](https://img.shields.io/badge/Datasets-Zenodo-blue.svg)](https://doi.org/10.5281/zenodo.14994375)
 [![Hugging Face](https://img.shields.io/badge/Models-HuggingFace-yellow.svg)](https://huggingface.co/wy337/EMcopilot)
-[![Supplementary Info](https://img.shields.io/badge/SI-PDF-lightgrey.svg)]((https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf)
+[![Supplementary Info](https://img.shields.io/badge/SI-PDF-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf)
 
 ## Usage
 
