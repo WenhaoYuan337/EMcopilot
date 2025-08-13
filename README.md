@@ -5,6 +5,18 @@
 [![Hugging Face](https://img.shields.io/badge/Models-HuggingFace-yellow.svg)](https://huggingface.co/wy337/EMcopilot)
 [![Supplementary Info](https://img.shields.io/badge/SI-PDF-lightgrey.svg)](https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf)
 
+## 🎥 Movie
+
+<video src="https://github.com/WenhaoYuan337/EMcopilot/raw/refs/heads/main/resources/movie.mp4" 
+       controls 
+       autoplay 
+       loop 
+       muted 
+       style="max-width:100%; height:auto;">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Usage
 
 1. **Train and predict segmentation models**:
