@@ -92,5 +92,5 @@ If you find our code or data useful in your research, please cite our paper:
       url={https://arxiv.org/abs/2407.19544}, 
 }
 ```
-Copyright | 2025 Qian's Lab@NUS 
+Copyright | 2025 Qian's Lab@NUS [Website](https://heqian.org/)
 
