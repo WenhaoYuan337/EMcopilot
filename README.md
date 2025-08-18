@@ -44,6 +44,25 @@
 </p>
 
 
+##  What Can These Generated Images Do?
+
+### 🔬 For Microscopists
+- Automated analysis of TEM images (even SEM, SPM, and OM, etc), without any manual labeling!
+
+<p align="center">
+  <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo1.png" alt="Catalysis Use Case" width="800">
+</p>
+
+---
+
+### ⚛️ For Catalysis Researchers
+- Precise and high-throughput extraction of morphological descriptors for bulk/supported catalysts, still, without any manual labeling!
+
+<p align="center">
+  <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo2.png" alt="Catalysis Use Case" width="800">
+</p>
+
+
 ## Installation
 
 Install required packages using:
