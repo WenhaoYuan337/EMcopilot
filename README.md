@@ -57,7 +57,7 @@
 
 ### ⚛️ For Catalysis Researchers
 - Precise and high-throughput extraction of morphological descriptors for bulk/supported catalysts, still, without any manual labeling.
-<p align="center">
+<p align="Left Align">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo2.png" alt="Catalysis Use Case1" width="700">
 </p>
 
