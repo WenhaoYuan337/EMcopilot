@@ -68,7 +68,7 @@
 
 - Want deeper insights into the spatial distributions and organizations among active sites? You get it!
 <p align="center">
-  <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/xxx.png" alt="Catalysis Use Case3" width="700">
+  <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo4.png" alt="Catalysis Use Case3" width="700">
 </p>
 
 
