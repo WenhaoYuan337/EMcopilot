@@ -28,7 +28,7 @@
 </div>
 
 
-## 🎥 Demonstration Movie
+## 🎥 Demonstration Movie - Image Generation
 - *This movie* illustrates the generation and iterative refinement of synthetic EM images for various supported catalysts as training epochs advance.  
 - *It captures* the evolution of the generator’s learning process, progressively assimilating real image features.  
 - *Toward the end*, a quick-flash sequence visually compares the final synthetic images with their corresponding experimental counterparts.
