@@ -28,11 +28,7 @@
 </div>
 
 
-## 🎥 Demonstration Movie - Image Generation
-- *This movie* illustrates the generation and iterative refinement of synthetic EM images for various supported catalysts as training epochs advance.  
-- *It captures* the evolution of the generator’s learning process, progressively assimilating real image features.  
-- *Toward the end*, a quick-flash sequence visually compares the final synthetic images with their corresponding experimental counterparts.
-
+## 🎥 Demonstration Movie - Image Generation Process
 <p align="center">
 <video src="https://github.com/user-attachments/assets/6080d6be-b48a-4388-94e3-568ed093c813" 
        autoplay 
@@ -43,6 +39,10 @@
 </video>
 </p>
 
+
+- *This movie* illustrates the generation and iterative refinement of synthetic EM images for various supported catalysts as training epochs advance.  
+- *It captures* the evolution of the generator’s learning process, progressively assimilating real image features.  
+- *Toward the end*, a quick-flash sequence visually compares the final synthetic images with their corresponding experimental counterparts.
 
 ##  What Can These Generated Images Do?
 
