@@ -49,7 +49,7 @@
 ### 🔬 For Microscopists
 - Automated analysis of TEM images (even SEM, SPM, and OM, etc), without any manual labeling!
 
-<p align="center">
+<p align="left align">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo1.png" alt="Microscopy Use Case" width="700">
 </p>
 
@@ -57,17 +57,17 @@
 
 ### ⚛️ For Catalysis Researchers
 - Precise and high-throughput extraction of morphological descriptors for bulk/supported catalysts, still, without any manual labeling.
-<p align="Left Align">
+<p align="left align">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo2.png" alt="Catalysis Use Case1" width="700">
 </p>
 
 - Besides sizing, shape also matters! Obtain shape statistics such as eccentricity and circularity from thousands of particles within seconds.
-<p align="center">
+<p align="left align">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo3.png" alt="Catalysis Use Case2" width="700">
 </p>
 
 - Want deeper insights into the spatial distributions and organizations among active sites? You get it!
-<p align="center">
+<p align="left align">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/xxx.png" alt="Catalysis Use Case3" width="700">
 </p>
 
