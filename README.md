@@ -47,7 +47,7 @@
 ##  What Can These Generated Images Do?
 
 ### 🔬 For Microscopists
-- Automated analysis of TEM images (even SEM, SPM, and OM, etc), without any manual labeling.
+- Automated analysis of TEM images (even SEM, SPM, and OM, etc), without any manual labeling!
 
 <p align="center">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo1.png" alt="Microscopy Use Case" width="700">
@@ -61,12 +61,12 @@
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo2.png" alt="Catalysis Use Case1" width="700">
 </p>
 
-- Besides sizing, shape also matters. Obtain shape statistics such as eccentricity and circularity from thousands of particles within seconds.
+- Besides sizing, shape also matters! Obtain shape statistics such as eccentricity and circularity from thousands of particles within seconds.
 <p align="center">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo3.png" alt="Catalysis Use Case2" width="700">
 </p>
 
-- Deeper insights into the spatial distributions and organizations among active sites.
+- Want deeper insights into the spatial distributions and organizations among active sites? You get it!
 <p align="center">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/xxx.png" alt="Catalysis Use Case3" width="700">
 </p>
