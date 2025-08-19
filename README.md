@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="https://arxiv.org/abs/2407.19544"><img src="https://img.shields.io/badge/arXiv-2407.19544-b31b1b.svg?logo=arxiv&logoColor=red" alt="arXiv"></a>
+<a href="https://doi.org/10.1093/mam/ozae044.211"><img src="https://img.shields.io/badge/Poster-M&M2024-blue.svg" alt="M&M2024"></a>
 <a href="https://doi.org/10.5281/zenodo.14994375"><img src="https://img.shields.io/badge/Datasets-Zenodo-blue.svg?logo=databricks" alt="Zenodo Datasets"></a>
 <a href="https://huggingface.co/wy337/EMcopilot"><img src="https://img.shields.io/badge/Models-HuggingFace-yellow.svg?logo=huggingface" alt="Hugging Face Models"></a>
-<a href="https://doi.org/10.1093/mam/ozae044.211"><img src="https://img.shields.io/badge/Poster-M&M2024-blue.svg" alt="M&M2024"></a>
 <!-- <a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf"><img src="https://img.shields.io/badge/SI-PDF-lightgrey.svg" alt="Supplementary Information PDF"></a>
 <a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_1.mp4"><img src="https://img.shields.io/badge/SI-Movie1-lightgrey.svg" alt="Supplementary Movie 1"></a>
 <a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_2.mp4"><img src="https://img.shields.io/badge/SI-Movie2-lightgrey.svg" alt="Supplementary Movie 2"></a> -->
