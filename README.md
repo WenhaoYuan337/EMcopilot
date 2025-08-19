@@ -47,7 +47,7 @@
 ##  What Can These Generated Images Do?
 
 ### 🔬 For Microscopists
-- Automated analysis of TEM images (even SEM, SPM, and OM, etc), without any manual labeling!
+- Automated analysis of TEM images (even SEM, SPM, and OM, etc), without any manual labeling or multislice simulations!
 
 <p align="center">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo1.png" alt="Microscopy Use Case" width="700">
