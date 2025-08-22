@@ -1,13 +1,11 @@
 # EMcopilot: Generate realistic electron microscopy images for label-free nanostructure segmentation
 
 <p align="center">
+<!-- <a href="https://doi.org/xxxxxxxxxxx"><img src="https://img.shields.io/badge/Paper-npj%20Computational%20Materials-black.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAS1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///+Ojo7n5+fT09MxMTG6urqfn59PT0/09PRra2shISF+fn46JhgGAAAADHRSTlMA0hh4smIK+ZDlSjcbp4U+AAAB5UlEQVRYhaVX7RaCIAxVsQQFzc96/yctLRiMaXB2fxnt3sPG2EZRnKBqRV2qRutGlbVoqzM7Gp1UGkHJLpV9FxH7pyHuKXTZ0PQdjfwrcbugHxK3S3pVXtN3lBfxvP2n7zjdhEzjay1pfp3K17pm8kmFLD6hkOy/BYpDYvx9BGdR5fO19vOBzJ+n+1i2bXlG/5eXDozzw3y/5sEcGOZTJ+44/7dp3Sn7Z28A6xKaNfZmBSew9A9L+PyajI8V+SGpDXgUzDdmIrcgwtUVBF4GA21BHAKo/oDXnpbFFtqqnd+hCI7Oejbr9FqWbQYBfBIdlcSDM+9/K0+3FRSEI4xRBZ0w33PrgWwVlcVzLLCcCXzyuY0E+lhgPBVo8SHmCgiikGQJ1MRFzBIo40PIE1BF3ImyBJoi4ucJaL4A2wV2ENnHyE4kdiqzL1N8nbMEKqKgEPXgVEBRJc0JQAF0BWVAtpIoqlDSCIEV2XZEWQcBqKCbXTKxB1FjgaoMAtBhws4iyN7qajhEDDpD0F9tdw3DCI0FHIYe+fJN7ZgTbgH8NWPkVdBZXHsPB4x5cHCdEJb8RPCmpIQROYY34vCHLPaYxx80+aMuf9jmj/v8Bwf/ycN/dBXsZ1/Bf3gW7KfvAd7j+4vU5/8bY+ib2he8lwIAAAAASUVORK5CYII=" alt="npj Computational Materials"></a> -->
 <a href="https://arxiv.org/abs/2407.19544"><img src="https://img.shields.io/badge/arXiv-2407.19544-b31b1b.svg?logo=arxiv&logoColor=red" alt="arXiv"></a>
-<a href="https://doi.org/10.1093/mam/ozae044.211"><img src="https://img.shields.io/badge/Poster-M&M2024-blue.svg" alt="M&M2024"></a>
-<a href="https://doi.org/10.5281/zenodo.14994375"><img src="https://img.shields.io/badge/Datasets-Zenodo-blue.svg?logo=databricks" alt="Zenodo Datasets"></a>
+<a href="https://doi.org/10.1093/mam/ozae044.211"><img src="https://img.shields.io/badge/Poster-M&M2024-2c90bb.svg" alt="M&M2024"></a>
+<a href="https://doi.org/10.5281/zenodo.14994375"><img src="https://img.shields.io/badge/Datasets-Zenodo-0067c9.svg" alt="Zenodo Datasets"></a>
 <a href="https://huggingface.co/wy337/EMcopilot"><img src="https://img.shields.io/badge/Models-HuggingFace-yellow.svg?logo=huggingface" alt="Hugging Face Models"></a>
-<!-- <a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary%20Information.pdf"><img src="https://img.shields.io/badge/SI-PDF-lightgrey.svg" alt="Supplementary Information PDF"></a>
-<a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_1.mp4"><img src="https://img.shields.io/badge/SI-Movie1-lightgrey.svg" alt="Supplementary Movie 1"></a>
-<a href="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/Supplementary_Movie_2.mp4"><img src="https://img.shields.io/badge/SI-Movie2-lightgrey.svg" alt="Supplementary Movie 2"></a> -->
 </p>
 
 <p align="center">
