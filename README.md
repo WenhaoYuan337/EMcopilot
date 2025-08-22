@@ -14,15 +14,13 @@
 <a href="https://arxiv.org/abs/2407.19544"><img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/toc.png" alt="TOC figure" width="800"></a>
 </p>
 
-<div align="center">
-<details>
-<summary><b>Scope of EMcopilot</b> (click to expand)</summary>
 
-| **Category**       | **Coverage** |
-|--------------------|--------------|
-| **Imaging Modes**  | TEM, STEM, BF, DF, HAADF |
-| **Demo Materials** | PtSn-NPs@Al₂O₃, Au-NPs@ZSM-5, Pd-NPs@C，PtSn-Cluster@Al₂O₃, Pt-SACs@C, Pt-SACs@NC, Pd-SACs@NC, Ni-SACs@NC, and Ru-SACs@NC |
-| **Applications**   | Semantic segmentation, Particle size distribution, Single-atom/clusters detection |
+
+| **Category**       | **Scope of EMcopilot** |
+|:--------------------|:--------------|
+| **Imagings**  | TEM, STEM, BF, DF, HAADF |
+| **Applications**   | Particle size distribution, Single-atom/clusters detection, semantic segmentation |
+| **Materials** | PtSn-NPs@Al₂O₃, Au-NPs@ZSM-5, Pd-NPs@C，PtSn-Cluster@Al₂O₃, Pt-SACs@C, Pt-SACs@NC, Pd-SACs@NC, Ni-SACs@NC, and Ru-SACs@NC |
 
 </details>
 </div>
@@ -40,8 +38,7 @@
 </p>
 
 
-- *This movie* illustrates the generation and iterative refinement of synthetic EM images for various supported catalysts as training epochs advance.  
-- *It captures* the evolution of the generator’s learning process, progressively assimilating real image features.  
+- *This movie* illustrates the generation and iterative refinement of synthetic EM images for various supported catalysts as training epochs advance, progressively assimilating real image features.  
 - *Toward the end*, a quick-flash sequence visually compares the final synthetic images with their corresponding experimental counterparts.
 
 ##  What Can These Generated Images Do?
