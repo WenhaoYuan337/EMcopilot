@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
-<a href="https://arxiv.org/abs/2407.19544"><img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/toc.png" alt="TOC figure" width="800"></a>
+<!-- <a href="https://doi.org/xxxxxxxxxxx"><img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/head.png" alt="TOC figure" width="800"></a> -->
 </p>
 
-
+<p align="center">
+<img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/toc.png" alt="TOC figure" width="800"></a>
+</p>
 
 | **Category**       | **Scope of EMcopilot** |
 |:--------------------:|:--------------:|
