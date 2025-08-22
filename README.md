@@ -17,7 +17,7 @@
 
 
 | **Category**       | **Scope of EMcopilot** |
-|:--------------------|--------------|
+|:--------------------|:--------------:|
 | **Imagings**  | TEM, STEM, BF, DF, HAADF |
 | **Applications**   | Particle size distribution, single-atom catalysts detection, semantic segmentation |
 | **Materials** | PtSn-NPs@Al₂O₃, Au-NPs@ZSM-5, Pd-NPs@C，PtSn-Cluster@Al₂O₃, Pt-SACs@C, Pt-SACs@NC, Pd-SACs@NC, Ni-SACs@NC, and Ru-SACs@NC |
