@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ## Datasets 
 All data that support the findings of this study, including experimental data, synthetic data and model checkpoints, are available on :
-- `Zenodo`: Yuan, W., Yao, B., Tan, S., You, F., & He, Q. (2025). Source Data for: Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14994375](https://doi.org/10.5281/zenodo.14994375)
+- `Zenodo`: [https://doi.org/10.5281/zenodo.14994375](https://doi.org/10.5281/zenodo.14994375)
 
 Models are also available on：
 -  `Hugging Face`: [https://huggingface.co/wy337/EMcopilot](https://huggingface.co/wy337/EMcopilot)
