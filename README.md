@@ -105,7 +105,7 @@ Models are also available on：
 
   
 ## Citation
-If you find our code or data useful in your research, please cite our paper:
+If you find our code or data useful in your research, please cite:
 ```
 @misc{yuan2024deepgenerativemodelsassistedautomated,
       title={Deep Generative Models-Assisted Automated Labeling for Electron Microscopy Images Segmentation}, 
