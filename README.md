@@ -117,5 +117,18 @@ If you find our code or data useful in your research, please cite our paper:
       url={https://arxiv.org/abs/2407.19544}, 
 }
 ```
-· Copyright © 2025 Qian's Lab ([Website](https://heqian.org/)) · Last updated Aug 14, 2025 · 
+
+
+## Contact
+For any questions regarding EMcopilot, including the paper or implementation, please feel free to contact me at <wy337@cornell.edu>.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+This project was developed in collaboration with:
+- [Qian's lab, National University of Singapore (Prof. Qian He)](https://heqian.org)
+- [PEESE lab, Cornell University (Prof. Fengqi You)](https://www.peese.org/)
+
 
