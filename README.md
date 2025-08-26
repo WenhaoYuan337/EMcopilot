@@ -127,7 +127,7 @@ For any questions regarding EMcopilot, including the paper or implementation, pl
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-This project was developed in collaboration with:
+This work is the result of collaboration between:
 - [Qian's lab, National University of Singapore (Prof. Qian He)](https://heqian.org)
 - [PEESE lab, Cornell University (Prof. Fengqi You)](https://www.peese.org/)
 
