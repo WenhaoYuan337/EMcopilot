@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<!-- <a href="https://doi.org/xxxxxxxxxxx"><img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/head.png" alt="TOC figure" width="800"></a> -->
+<!-- <a href="https://doi.org/xxxxxxxxxxx"><img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/head.png" alt="Title figure" width="800"></a> -->
 </p>
 
 <p align="center">
