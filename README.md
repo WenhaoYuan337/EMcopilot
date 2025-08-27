@@ -49,7 +49,7 @@
 ##  What Can These Generated Images Do?
 
 ### 🔬 For Microscopists
-- Automated analysis of TEM images (even SEM, SPM, and OM, etc), without multislice simulations or manual labeling!
+- Automated analysis of TEM images (even SEM, SPM, and OM, etc), without multislice simulations or manual labeling.
 
 <p align="center">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo1.png" alt="Microscopy Use Case" width="700">
@@ -63,12 +63,12 @@
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo2.png" alt="Catalysis Use Case1" width="700">
 </p>
 
-- Besides sizing, shape also matters! Obtain shape statistics such as eccentricity and circularity from thousands of particles within seconds.
+- Besides sizing, shape also matters. Obtain shape statistics such as eccentricity and circularity from thousands of particles within seconds.
 <p align="center">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo3.png" alt="Catalysis Use Case2" width="700">
 </p>
 
-- Want deeper insights into the spatial distributions and organizations among active sites? You get it!
+- Deeper insights into the spatial distributions and organizations among active sites.
 <p align="center">
   <img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/demo4.png" alt="Catalysis Use Case3" width="700">
 </p>
@@ -125,6 +125,9 @@ If you find our code or data useful in your research, please cite:
 
 <!--
 Yuan W., Yao B., Tan S. *et al*. Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation. *npj Comput Mater* **xx**, xxx (2025). `https://doi.org/10.1038/xxx`
+```
+Yuan W., Yao B., Tan S. et al. Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation. npj Comput Mater **xx**, xxx (2025). https://doi.org/10.1038/xxx
+```
 
 [Download citation ⬇](https://citation-needed.springer.com/v2/references/xxxxxxxx?format=refman&flavour=citation)
 -->
