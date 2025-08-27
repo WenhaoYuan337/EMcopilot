@@ -1,4 +1,4 @@
-# EMcopilot: Generate realistic electron microscopy images for label-free nanostructure segmentation
+# EMcopilot: Generate realistic electron microscopy images for label-free nanocatalyst segmentation
 
 <p align="center">
 <!-- 
