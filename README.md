@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-<!-- 
 <a href="https://doi.org/10.1038/s41524-025-01800-5"><img src="https://github.com/WenhaoYuan337/EMcopilot/blob/main/resources/head.png" alt="Title figure" width="800"></a>
- -->
 </p>
 
 <p align="center">
@@ -109,11 +107,10 @@ Models are also available on：
 ## Citation
 If you find our code or data useful in your research, please cite:
 ```
-Yuan W., Yao B., Tan S. et al. Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation. npj Comput Mater 11, xxx (2025). https://doi.org/10.1038/s41524-025-01800-5
+Yuan W., Yao B., Tan S. et al. Generative learning of morphological and contrast heterogeneities for self-supervised electron micrograph segmentation. npj Comput Mater 11, 322 (2025). https://doi.org/10.1038/s41524-025-01800-5
 ```
 
-[Download citation ⬇](https://citation-needed.springer.com/v2/references/10.1038/s41524-025-xxxxx-x?format=refman&flavour=citation)
-
+[Download citation ⬇](https://citation-needed.springer.com/v2/references/10.1038/s41524-025-01800-5?format=refman&flavour=citation)
 
 
 ## Contact
