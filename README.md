@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ## Datasets 
 All data that support the findings of this study, including experimental data, synthetic data and model checkpoints, are available on :
-- `Zenodo`: [https://doi.org/10.5281/zenodo.14994375](https://doi.org/10.5281/zenodo.14994375)
+- `Zenodo`: [https://doi.org/10.5281/zenodo.18929384](https://doi.org/10.5281/zenodo.18929384)
 
 Models are also available on：
 -  `Hugging Face`: [https://huggingface.co/wy337/EMcopilot](https://huggingface.co/wy337/EMcopilot)
